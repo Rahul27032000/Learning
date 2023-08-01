@@ -1,0 +1,8 @@
+# Ignore node_modules in all subdirectories
+**/node_modules/
+
+# Other common Node.js files and directories to ignore
+*.log
+*.env
+*.lock
+.DS_Store
